@@ -1,4 +1,4 @@
-Exploratory Data Analysis
+#Exploratory Data Analysis
 Exploratory Data Analysis of different datasets using Machine Learning Algorithms.
 
 Datasets link:
